@@ -11,4 +11,4 @@ The data is collected with the customized sensor node described in:
 >S. Bader et al., "Distributed Measurement of Light Conditions for Indoor Photovoltaic Applications", in Proc. of IEEE Sensors, 2020.
 
 More information on the different light conditions can be found in:
-X. Ma et al., "Estimating Harvestable Energy in Time-Varying Indoor Light Conditions", in 8th International Workshop on Energy Harvesting & Energy-Neutral Sensing Systems (ENSsys'20), 2020.
+>X. Ma et al., "Estimating Harvestable Energy in Time-Varying Indoor Light Conditions", in 8th International Workshop on Energy Harvesting & Energy-Neutral Sensing Systems (ENSsys'20), 2020.
